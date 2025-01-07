@@ -2,7 +2,7 @@ import java.lang.*;
 import java.io.*;
 import java.util.*;
 public class SumAndAverage{
-	public static void main{String[] args){
+	public static void main(String[] args){
 		Scanner Sc=new Scanner(System.in);
 		int sum=0;
 		System.out.println("enter the five numbers");
